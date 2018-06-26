@@ -1,0 +1,1 @@
+abc teste MAIUSCULO ^ += 123
